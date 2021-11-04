@@ -1,9 +1,8 @@
+import math
+r = float(input("masukkan jari-jari:"))
 
-r = int(input("Masukkan Jari-Jari (r) : "))
+luas = math.pi*(r*r)
+keliling = 2*math.pi*r
 
-L = float(22) / 7 * r * r
-K = 2 * (float(22) / 7) *  r
-
-print ("Luas (L) lingkaran : " + str(L))
-print ("Keliling (K) lingkaran : " + str(K))
-
+print("luas lingkaran \t= ",format(luas))
+print("keliling lingkaran \t= ",format(keliling))
