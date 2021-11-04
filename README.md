@@ -12,6 +12,7 @@ Berikut merupakan pseudocodenya
 ![Gambar 1](Screenshot/ss1.png)
 
 Ini saat push repository ke github
+
 ![Gambar 2](Screenshot/ss2.png)
 
 Dan ini flowchartnya
